@@ -27,10 +27,14 @@ jobs:
           title: Satzung des Fest der Demokratie e.V.
           author: Fest der Demokratie e.V.
           subtitle: "Version $VERSION"
-          mainfont: TeX Gyre Pagella
-          sansfont: TeX Gyre Heros
           fontsize: 11pt
           linestretch: 1.15
+          mainfont: IBMPlexSerif-Regular.ttf
+          mainfontoptions:
+            - "Path=./fonts/"
+            - "BoldFont=IBMPlexSerif-Bold.ttf"
+            - "ItalicFont=IBMPlexSerif-Italic.ttf"
+            - "BoldItalicFont=IBMPlexSerif-BoldItalic.ttf"
           EOF
 
       - name: Build PDF
