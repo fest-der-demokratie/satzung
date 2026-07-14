@@ -20,6 +20,14 @@ Der GitHub-Actions-Workflow [`.github/workflows/pdf.yml`](.github/workflows/pdf.
   git push --tags
   ```
 
+## Schrift
+
+Die PDF wird in **IBM Plex Serif** gesetzt. Die Schriftdateien liegen im Ordner [`fonts/`](fonts/) und werden vom Build per Dateipfad in `xelatex` geladen – so ist der PDF-Build unabhängig von den im `pandoc/latex`-Image vorhandenen Schriften. IBM Plex Serif steht unter der [SIL Open Font License](fonts/OFL.txt).
+
 ## Bearbeiten
 
 Änderungen erfolgen ausschließlich in `satzung.md`. Nach dem Push baut der Workflow automatisch eine neue PDF.
+
+## Abhängigkeiten
+
+Die verwendeten GitHub-Actions werden über [Dependabot](.github/dependabot.yml) wöchentlich auf Updates geprüft.
