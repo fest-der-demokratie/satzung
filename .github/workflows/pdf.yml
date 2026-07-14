@@ -21,8 +21,6 @@ jobs:
             satzung.md
             -o satzung.pdf
             --pdf-engine=xelatex
-            --toc
-            -V toc-title=Inhaltsverzeichnis
             -V lang=de
             -V geometry:margin=2.5cm
             -V linkcolor=blue
