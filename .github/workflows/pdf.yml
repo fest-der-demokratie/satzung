@@ -14,6 +14,20 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Metadaten (Datum & Version)
+        run: |
+          if [ "${{ github.ref_type }}" = "tag" ]; then
+            VERSION="${{ github.ref_name }}"
+          else
+            VERSION="${GITHUB_SHA::7}"
+          fi
+          cat > metadata.yaml <<EOF
+          title: Satzung des Fest der Demokratie e.V.
+          author: Fest der Demokratie e.V.
+          date: "$(date +%d.%m.%Y)"
+          subtitle: "Version $VERSION"
+          EOF
+
       - name: Build PDF
         uses: docker://pandoc/latex:latest
         with:
@@ -21,11 +35,10 @@ jobs:
             satzung.md
             -o satzung.pdf
             --pdf-engine=xelatex
+            --metadata-file=metadata.yaml
             -V lang=de
             -V geometry:margin=2.5cm
             -V linkcolor=blue
-            --metadata title=Satzung
-            --metadata author="Fest der Demokratie e.V."
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
