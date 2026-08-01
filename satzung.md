@@ -114,7 +114,7 @@
 2. Vorstand im Sinne von § 26 Abs. 2 BGB sind die beiden Vorsitzenden. Sie vertreten den Verein je allein gerichtlich und außergerichtlich.
 3. Die Vorsitzenden werden auf 5 Jahre und die 3 weiteren Vorstandsmitglieder auf 2 Jahre gewählt. Gewählt ist, wer die meisten Stimmen auf sich vereinigt. Wiederwahl ist möglich. Nach Ablauf der Wahlperiode bleiben diese bis zur Wahl eines neuen Vorstandes im Amt.
 4. Der Vorstand führt die Geschäfte des Vereins. Die Vorstandsmitglieder bestimmen einen Verantwortlichen im Vorstand für das Rechnungswesen, Führung und Verantwortung der Finanzen. Wenn möglich, sollte das einer der beiden Vorsitzenden sein.
-5. Beschlussfähig ist der Vorstand bei Anwesenheit von mindestens 3 Vorstandsmitgliedern, darunter einer der Vorsitzenden. Vorstandsbeschlüsse können auch im schriftlichen Umlaufverfahren (auch per E-Mail oder in einem Internetforum) herbeigeführt werden.
+5. Beschlussfähig ist der Vorstand bei Anwesenheit von mindestens 3 Vorstandsmitgliedern, darunter einer der Vorsitzenden. Beschlüsse des Vorstandes werden, soweit die Satzung nichts anderes bestimmt, mit einfacher Mehrheit gefasst; Enthaltungen sind nicht mitzuzählen. Bei Stimmengleichheit entscheidet die Stimme des sitzungsleitenden Vorsitzenden. Vorstandsbeschlüsse können auch im schriftlichen Umlaufverfahren (auch per E-Mail oder in einem Internetforum) herbeigeführt werden.
 6. Scheidet ein Vorsitzender aus, wird unverzüglich eine außerordentliche Mitgliederversammlung zur Neuwahl des Vorsitzenden für die verbliebene Amtszeit der Wahlperiode einberufen.
 7. Der Vorstand verwaltet den Verein und führt die laufenden Geschäfte und ist für die Ausführung der Beschlüsse der Mitgliederversammlung verantwortlich.
 8. Der Vorstand kann im Rahmen der haushaltsrechtlichen Möglichkeiten für die Ausübung seiner Tätigkeit eine angemessene Vergütung und/oder eine angemessene Aufwandsentschädigung im Sinne des § 3 Nr. 26 a EStG beschließen.
@@ -125,6 +125,7 @@
 13. Der Vorstand kann sich eine Geschäftsordnung und einen Geschäftsverteilungsplan geben.
 14. Der Vorstand entscheidet über den Ausschluss von Mitgliedern.
 15. Über die Beschlüsse des Vorstandes wird ein Protokoll geführt.
+16. Der Vorstand kann mit einfacher Mehrheit Richtlinien zur Auslegung und Umsetzung der in § 1 und § 2 genannten Werte beschließen, insbesondere Arbeitsdefinitionen zu Extremismus, Rassismus, Antisemitismus und Menschenfeindlichkeit. Die Richtlinien sind den Mitgliedern in Textform bekanntzugeben und treten mit der Bekanntgabe in Kraft. Sie sind Maßstab für die Arbeit des Vereins und für Entscheidungen des Vorstandes nach § 4. Die Mitgliederversammlung kann Richtlinien mit einfacher Mehrheit ändern oder aufheben. § 2 Abs. 4 bleibt unberührt.
 
 ## § 10 Rechnungsführung
 
