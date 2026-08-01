@@ -30,7 +30,8 @@
    7. Projekte und Kooperationen mit Trägern der Bildungsarbeit (z.B. mit Schulen, Volkshochschulen und anderen Bildungseinrichtungen);
    8. die Schulung, Aus- und Weiterbildung, Betreuung und Beratung von ehrenamtlich Mitarbeitenden;
    9. Öffentlichkeitsarbeit und Information zu Fragen der Demokratie und des gesellschaftlichen Zusammenlebens;
-   10. die Vernetzung und Zusammenarbeit demokratischer Akteure in Pfaffenhofen und Umgebung.
+   10. die Vernetzung und Zusammenarbeit demokratischer Akteure in Pfaffenhofen und Umgebung;
+   11. die eigenständige Kinder- und Jugendarbeit im Rahmen der Vereinsjugend (§ 10) sowie die Mitwirkung in den Strukturen der Jugendarbeit auf Kreis- und Landesebene.
 
 3. Der Verein ist parteipolitisch neutral. Er unterstützt keine einzelnen politischen Parteien und nimmt keinen Einfluss zugunsten oder zuungunsten einer politischen Partei oder eines Wahlbewerbers.
 
@@ -44,7 +45,7 @@
 
 ## § 3 Gemeinnützigkeit
 
-1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke" der Abgabenordnung. Zweck des Vereins ist die Förderung des demokratischen Staatswesens, der politischen Bildung sowie der Volksbildung, der Kunst und Kultur. Der Satzungszweck wird insbesondere durch die in § 2 Absatz 2 aufgeführten Tätigkeiten verwirklicht.
+1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke" der Abgabenordnung. Zweck des Vereins ist die Förderung des demokratischen Staatswesens, der politischen Bildung, der Jugendhilfe sowie der Volksbildung, der Kunst und Kultur. Der Satzungszweck wird insbesondere durch die in § 2 Absatz 2 aufgeführten Tätigkeiten verwirklicht.
 2. Der Verein ist selbstlos tätig, er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.
 3. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden.
 4. Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
@@ -78,13 +79,15 @@
 ## § 6 Gliederung
 
 1. Der Verein hat verschiedene Arbeitsbereiche, Untergliederungen und Einrichtungen. Der Vorstand legt diese fest oder kann diese jederzeit ändern. Neue Formen der Arbeit und Strukturen, soweit sie der Satzung entsprechen, können hinzugefügt werden.
-2. Zur Förderung der Vereinsarbeit können Freundeskreise gebildet werden.
+2. Die Vereinsjugend (§§ 10 bis 13) ist keine Untergliederung im Sinne des Absatzes 1; sie kann durch den Vorstand weder aufgehoben noch in ihrer Eigenständigkeit beschränkt werden.
+3. Zur Förderung der Vereinsarbeit können Freundeskreise gebildet werden.
 
 ## § 7 Organe
 
 1. Die Organe des Vereins sind:
    1. die Mitgliederversammlung (§ 8)
    2. der Vorstand (§ 9)
+2. Die Vereinsjugend hat eigene Organe (§ 11).
 
 ## § 8 Mitgliederversammlung
 
@@ -127,11 +130,47 @@
 15. Über die Beschlüsse des Vorstandes wird ein Protokoll geführt.
 16. Der Vorstand kann mit einfacher Mehrheit Richtlinien zur Auslegung und Umsetzung der in § 1 und § 2 genannten Werte beschließen, insbesondere Arbeitsdefinitionen zu Extremismus, Rassismus, Antisemitismus und Menschenfeindlichkeit. Die Richtlinien sind den Mitgliedern in Textform bekanntzugeben und treten mit der Bekanntgabe in Kraft. Sie sind Maßstab für die Arbeit des Vereins und für Entscheidungen des Vorstandes nach § 4. Die Mitgliederversammlung kann Richtlinien mit einfacher Mehrheit ändern oder aufheben. § 2 Abs. 4 bleibt unberührt.
 
-## § 10 Rechnungsführung
+## § 10 Vereinsjugend
+
+1. Die Vereinsjugend ist organisatorischer Bestandteil des Gesamtvereins; sie ist an dessen Vereinszweck und Satzung gebunden. Sie ist nicht rechtsfähig.
+2. Die Vereinsjugend ist in ihrer Arbeit eigenständig, sie führt und verwaltet sich selbst.
+3. Jedes Mitglied des Vereins, welches das 27. Lebensjahr noch nicht vollendet hat, ist automatisch Mitglied der Vereinsjugend.
+4. Die Mitgliedschaft in der Vereinsjugend endet automatisch mit der Vollendung des 27. Lebensjahres, ausgenommen, das Mitglied ist noch Teil des Jugendvorstandes; in diesem Fall endet die Mitgliedschaft mit der Wahl eines neuen Jugendvorstandes.
+5. Die Vereinsjugend gibt sich eine Jugendordnung, welche weitere Details regelt. Die Jugendordnung wird von der Jugendversammlung beschlossen. Sie ist nicht Bestandteil dieser Satzung, darf ihr nicht widersprechen und ist dem Vorstand des Gesamtvereins in Textform bekanntzugeben.
+
+## § 11 Organe der Vereinsjugend
+
+1. Die Organe der Vereinsjugend sind die Jugendversammlung und der Jugendvorstand.
+2. Die Jugendversammlung ist das höchste Gremium der Vereinsjugend. Sie setzt sich aus allen Mitgliedern der Vereinsjugend zusammen und wählt den Jugendvorstand. Weiteres, insbesondere Einberufung, Stimmrecht und Beschlussfassung, regelt die Jugendordnung.
+3. Der Jugendvorstand führt die Geschäfte der Vereinsjugend. Weiteres, insbesondere Zusammensetzung, Amtszeit und Wahl, regelt die Jugendordnung.
+4. Die Mitglieder des Jugendvorstandes sind besondere Vertreter im Sinne des § 30 BGB. Ihr Wirkungskreis umfasst die Aufgaben der Vereinsjugend. Sie sind befugt, Rechtsgeschäfte im Namen des Vereins abzuschließen und Vollmachten zu erteilen, jedoch nur im Rahmen des verfügbaren Jugendetats (§ 12) und soweit dies zur Erfüllung der Aufgaben der Vereinsjugend erforderlich ist. Rechtsgeschäfte und Vollmachten, die über den üblichen Umfang der Vereinsjugend hinausgehen oder besondere Haftungsrisiken mit sich bringen, bedürfen der vorherigen schriftlichen Zustimmung des Vorstandes des Gesamtvereins.
+5. Rechtsgeschäfte nach Absatz 4 dürfen nur von volljährigen Mitgliedern des Jugendvorstandes vorgenommen werden.
+6. Der Jugendvorstand kann an den Sitzungen des Vorstandes des Gesamtvereins mit beratender Stimme teilnehmen.
+
+## § 12 Jugendetat
+
+1. Die Vereinsjugend verwaltet einen eigenen Etat (Jugendetat) und darf über diesen in Eigenständigkeit entscheiden. § 3 bleibt unberührt.
+2. Der Vorstand des Gesamtvereins ist verpflichtet, den Jugendetat mit den notwendigen Mitteln zur grundlegenden Erfüllung der Aufgaben der Vereinsjugend auszustatten.
+3. Die Vereinsjugend ist berechtigt, im Namen und auf Rechnung des Gesamtvereins Spenden, Zuschüsse und Förderungen einzuwerben bzw. zu beantragen.
+4. Die Vereinsjugend kann eigene Mitgliedsbeiträge erheben; deren Höhe und Fälligkeit beschließt die Jugendversammlung. § 5 bleibt hiervon unberührt.
+5. Beiträge, Zuschüsse, Förderungen und Spenden, die für die Jugendarbeit vereinnahmt werden, sind als zusätzliche Mittel vollständig dem Jugendetat zuzuführen.
+6. Einnahmen und Ausgaben der Vereinsjugend werden durch den Jugendvorstand verwaltet und jährlich gegenüber der Jugendversammlung und dem Vorstand des Gesamtvereins abgerechnet. Die Rechnungsprüfung nach § 14 Abs. 3 erstreckt sich auch auf den Jugendetat.
+7. Der Gesamtverein haftet im Innenverhältnis nicht für Verbindlichkeiten der Vereinsjugend, es sei denn, eine ausdrückliche schriftliche Verpflichtung wurde durch den Vorstand des Gesamtvereins übernommen.
+8. Weiteres regelt die Jugendordnung.
+
+## § 13 Verhältnis von Vereinsjugend und Gesamtverein
+
+1. Änderungen dieser Satzung, die die Vereinsjugend betreffen, sowie die Auflösung der Vereinsjugend sind nur mit Zustimmung der Jugendversammlung möglich.
+2. Der Vorstand des Gesamtvereins ist über die Geschäftsführung der Vereinsjugend regelmäßig zu informieren.
+3. Entscheidungen der Jugendversammlung oder des Jugendvorstandes, die gegen die Satzung oder die Interessen des Gesamtvereins verstoßen, können durch den Vorstand des Gesamtvereins beanstandet und zur Überprüfung an die Jugendversammlung verwiesen werden; die Beanstandung hat aufschiebende Wirkung. Sollte es nach dem Verweis erneut zur Beanstandung des Beschlusses kommen, kann jedes beteiligte Organ den strittigen Beschluss an die Mitgliederversammlung verweisen, welche daraufhin unverzüglich durch den Vorstand des Gesamtvereins einzuberufen ist und abschließend entscheidet.
+4. Bei Auflösung der Vereinsjugend fällt der Jugendetat an den Gesamtverein, mit der Zweckbindung, die Mittel für die Jugendarbeit zu verwenden.
+5. Bei Auflösung des Gesamtvereins oder Wegfall steuerbegünstigter Zwecke gilt für den Jugendetat § 16 Abs. 2.
+
+## § 14 Rechnungsführung
 
 1. Das Geschäftsjahr ist das Kalenderjahr.
 2. Zur Prüfung der Rechnung werden von der Mitgliederversammlung für die Amtszeit von einem Jahr zwei Rechnungsprüfer gewählt (§ 8 Abs. 5 Nr. 10).
-3. Die Kasse des Vereins wird von dem für das Rechnungswesen verantwortlichen Vorstandsmitglied geführt. Mindestens einmal im Jahr werden die Kasse und die Rechnungen von den gewählten Rechnungsprüfern geprüft.
+3. Die Kasse des Vereins wird von dem für das Rechnungswesen verantwortlichen Vorstandsmitglied geführt. Mindestens einmal im Jahr werden die Kasse und die Rechnungen von den gewählten Rechnungsprüfern geprüft. Die Prüfung erstreckt sich auch auf den Jugendetat (§ 12).
 4. Alle von den Gruppen, Projekten oder Einrichtungen erworbenen oder ihnen zugewendeten Gegenstände und Geldbeträge bleiben Eigentum des Vereins.
 5. Zur Bestreitung der Kosten des Vereins dienen
    1. die von der Mitgliederversammlung festgesetzten regelmäßigen Mitgliederbeiträge;
@@ -140,13 +179,14 @@
    4. Beiträge des Freundeskreises sowie der Freunde und Gönner des Vereins;
    5. erwirtschaftete Erträge.
 
-## § 11 Satzungsänderung
+## § 15 Satzungsänderung
 
 1. § 2 Abs. 1 ist nur änderbar durch Beschluss der Mitgliederversammlung. Dieser Beschluss bedarf einer 3/4-Mehrheit der anwesenden Mitglieder, mindestens aber der Zustimmung der Hälfte aller Vereinsmitglieder.
 2. Die übrige Satzung kann nur geändert werden, wenn mindestens 3/4 der anwesenden Mitglieder in einer Mitgliederversammlung die Änderung beschließen.
 3. Satzungsänderungen, die von Aufsichts-, Finanz- oder Registerbehörden aus formalen Gründen verlangt werden, kann der Vorstand von sich aus vornehmen. Diese Änderungen sind den Mitgliedern spätestens mit der nächsten Einladung zur Mitgliederversammlung mitzuteilen.
+4. § 13 Abs. 1 bleibt unberührt.
 
-## § 12 Auflösung und Aufhebung
+## § 16 Auflösung und Aufhebung
 
 1. Die Auflösung des Vereins erfolgt:
    1. durch einen Beschluss der Mitgliederversammlung. Die Auflösung ist beschlossen, wenn 3/4 der anwesenden Mitglieder und mindestens die Hälfte aller Mitglieder des Vereins zustimmen.
