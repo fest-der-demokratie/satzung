@@ -34,6 +34,14 @@
 
 3. Der Verein ist parteipolitisch neutral. Er unterstützt keine einzelnen politischen Parteien und nimmt keinen Einfluss zugunsten oder zuungunsten einer politischen Partei oder eines Wahlbewerbers.
 
+4. Der Verein bekennt sich in seiner Bildungs- und Veranstaltungsarbeit zu den Grundsätzen des Beutelsbacher Konsenses:
+
+   1. Überwältigungsverbot: Teilnehmerinnen und Teilnehmer dürfen nicht im Sinne erwünschter Meinungen überrumpelt und damit an der Gewinnung eines selbständigen Urteils gehindert werden.
+   2. Kontroversitätsgebot: Was in Wissenschaft und Politik kontrovers ist, muss auch in den Angeboten und Veranstaltungen des Vereins kontrovers erscheinen.
+   3. Adressatenorientierung: Teilnehmerinnen und Teilnehmer sollen in die Lage versetzt werden, eine politische Situation und ihre eigene Interessenlage zu analysieren sowie Wege zu suchen, die vorgefundene politische Lage im Sinne ihrer Interessen zu beeinflussen.
+
+   Das Eintreten des Vereins für die freiheitliche demokratische Grundordnung (§ 1 Abs. 5) bleibt hiervon unberührt.
+
 ## § 3 Gemeinnützigkeit
 
 1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke" der Abgabenordnung. Zweck des Vereins ist die Förderung des demokratischen Staatswesens, der politischen Bildung sowie der Volksbildung, der Kunst und Kultur. Der Satzungszweck wird insbesondere durch die in § 2 Absatz 2 aufgeführten Tätigkeiten verwirklicht.
