@@ -14,15 +14,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7
 
-      - name: Metadaten (Datum & Version)
+      - name: Metadaten (Version)
         run: |
-          DATE="$(date +%d.%m.%Y)"
           if [ "${{ github.ref_type }}" = "tag" ]; then
             VERSION="${{ github.ref_name }}"
           else
             VERSION="${GITHUB_SHA::7}"
           fi
-          sed -i "s/\[Datum\]/$DATE/" satzung.md
           cat > metadata.yaml <<EOF
           title: Satzung des Fest der Demokratie e.V.
           author: Fest der Demokratie e.V.

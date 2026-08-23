@@ -2,7 +2,7 @@
 
 **Fest der Demokratie e.V. (in Gründung)**
 
-Ort: \_\_\_\_\_\_\_\_\_\_ · Datum: \_\_\_\_\_\_\_\_\_\_ · Beginn: \_\_\_\_ Uhr
+Ort: \_\_\_\_\_\_\_\_\_\_ · Datum: 23.08.2026 · Beginn: \_\_\_\_ Uhr
 
 ---
 
@@ -24,7 +24,7 @@ Vorstellung des Entwurfs (`satzung.md`), Aussprache, Aufnahme von Änderungsantr
 
 *Beschlussvorschlag:* Die Versammlung beschließt die Satzung in der vorliegenden Fassung und errichtet den Verein „Fest der Demokratie".
 
-- Das Errichtungsdatum ist in der Schlusszeile der Satzung einzutragen.
+- Das Errichtungsdatum (23.08.2026) steht bereits in der Schlusszeile der Satzung.
 - Die Satzung wird von allen Gründungsmitgliedern unterzeichnet.
 - Die Anwesenden erklären mit der Unterzeichnung ihren Beitritt und sind Gründungsmitglieder.
 
@@ -83,7 +83,7 @@ Nach § 5 Abs. 1 und § 8 Abs. 5 Nr. 8. Zuständig ist ausschließlich die Mitgl
 ## Vorbereitung
 
 - [ ] Mindestens sieben Gründungswillige eingeladen und zugesagt
-- [ ] Satzungsentwurf in ausreichender Zahl ausgedruckt, Schlusszeile mit Errichtungsdatum
+- [ ] Satzung (Release v1.0) in ausreichender Zahl ausgedruckt
 - [ ] Anwesenheits- und Unterschriftenliste
 - [ ] Vorbereitete Stimmzettel für vier Wahlgänge (2 × Vorsitz, 1 × weitere Vorstandsmitglieder, 1 × Rechnungsprüfer) — die Satzung schreibt schriftliche Stimmabgabe zwingend vor
 - [ ] Notartermin für die Anmeldung vorab angefragt

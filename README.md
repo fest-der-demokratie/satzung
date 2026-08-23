@@ -5,6 +5,15 @@ Dieses Repository enthält die Vereinssatzung des **Fest der Demokratie e.V.** (
 ## Inhalt
 
 - [`satzung.md`](satzung.md) – die Satzung als Markdown-Quelle (maßgebliche, versionierte Fassung)
+- [`gruendungsversammlung.md`](gruendungsversammlung.md) – Tagesordnung der konstituierenden Mitgliederversammlung
+
+## Versionen
+
+| Version | Stand | Beschreibung |
+| --- | --- | --- |
+| [`v1.0`](../../releases/tag/v1.0) | 23.08.2026 | Gründungsfassung – von der konstituierenden Mitgliederversammlung beschlossen |
+
+Das Errichtungsdatum steht fest in der Schlusszeile von `satzung.md`. Jede spätere Änderung der Satzung bedarf eines Beschlusses nach § 15 und erhält eine neue Version.
 
 ## PDF
 

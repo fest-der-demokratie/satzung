@@ -195,4 +195,4 @@
 
 ---
 
-*Die vorliegende Satzung wurde am [Datum] errichtet.*
+*Die vorliegende Satzung wurde am 23.08.2026 errichtet.*
